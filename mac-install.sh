@@ -7,19 +7,10 @@ brew cask install firefox
 brew cask install postman
 brew cask install sourcetree
 brew cask install slack
-brew cask install visual-studio-code
-
-# DB/DBMS
-brew cask install mongodb
-brew cask install mongodb-compass
-brew cask install sequel-pro
-
-# Android
-brew cask install android-studio 
+brew cask install visual-studio-code 
 
 # Other
 brew cask install spotify
-brew cask install virtualbox
 
 # Node JS
 mkdir ~/.nvm
