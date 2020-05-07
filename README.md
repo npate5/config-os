@@ -1,9 +1,10 @@
 ## configurations for workstation setup
 
-### Linux Pre Install (Generate SSH keys)
+### mac Pre Install (Generate SSH keys)
 
-bash <(curl -s https://raw.githubusercontent.com/bp1235811/config-os/master/linux-preinstall.sh)
+bash <(curl -s https://raw.githubusercontent.com/npate5/config-os/master/mac-preinstall.sh)
 
-### Linux Post Install (install software)
+### mac Post Install (install software)
 
-bash <(curl -s https://raw.githubusercontent.com/bp1235811/config-os/master/linux-install.sh)
+bash <(curl -s https://raw.githubusercontent.com/npate5/config-os/master/mac-install.sh)
+
